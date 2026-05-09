@@ -1,0 +1,5 @@
+适用于 .NET Framework MSBuild 版本 18.5.4+cb4e32d21
+
+  xuanyi.cpp
+c:\Vsprogram\xuanyi\xuanyi\xuanyi.cpp(79,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 [c:\Vsprogram\xuanyi\xuanyi\xuanyi.vcxproj]
+  xuanyi.vcxproj -> c:\Vsprogram\xuanyi\x64\Debug\xuanyi.exe
